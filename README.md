@@ -36,7 +36,7 @@ swe engineer
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/fer?style=flat-square&color=pink)](https://github.com/fer)
+[![GitHub followers](https://img.shields.io/github/followers/fer?style=flat-square&color=pink)](https://github.com/fernanda371)
 
 </div>
 
